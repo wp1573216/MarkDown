@@ -18,7 +18,7 @@ ___
 ## HTML 代码demo
 
 <p align='center'>
-<img src='https://www.baidu.com/img/bd_logo1.png'/>
+<img src='http://www.baidu.com/img/bd_logo1.png'/>
 </p>
 
 
@@ -58,5 +58,5 @@ emoji 表情符号
 
 <!-- 下面是本文中用到的链接 -->
 [百度]:http://www.baidu.com
-[baidu logo]: https://www.baidu.com/img/bd_logo1.png
+[baidu logo]: http://www.baidu.com/img/bd_logo1.png
 

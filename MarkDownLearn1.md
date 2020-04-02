@@ -17,7 +17,7 @@
 
 ## 段落 Demo
 
-我是王攀，我喜欢Github 开源社区的技术和氛围。   
+我是wp，我喜欢Github 开源社区的技术和氛围。   
     我的QQ号是：331944508。
     123456
     
@@ -32,35 +32,35 @@
 我是***倾斜加粗***样式。  
 我是~~删除线~~文字样式（需要GFM Viewer）。
 
-我是_斜体_ 。
+我是_斜体_。
 我是__粗体__。
-我是__倾斜加粗__。
+我是___倾斜加粗___。
 
 ## 列表 Demo
 
-###有序列表 Demo
+### 有序列表 Demo
 
-王攀的个人信息：
-* Name：wangpan
+wp的个人信息：
+* Name：wp
 * QQ：331944508
 
 
 等价的写法：
 
-王攀的个人信息：
-- Name：wangpan
-  - Name：wangpan
-    - Name:WangPan
+wp的个人信息：
+- Name：wp
+  - Name：wp
+    - Name:wp
     - QQ:331944508
   - QQ：331944508
 - QQ：331944508
 
 
-###无序列表 Demo
+### 无序列表 Demo
 
-王攀的个人信息：
-1. Name：wangpan
-  1. Name:Wangpan
+wp的个人信息：
+1. Name：wp
+  1. Name:wp
 2. QQ：331944508
 4. 欢迎浏览课程资料页面
 3. 请给五星评价
