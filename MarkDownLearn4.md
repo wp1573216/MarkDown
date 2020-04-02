@@ -52,8 +52,8 @@ low：
 - 问题1：如何打断 ：空行不行，需要文字打断
 
 1. item1
-  1. item 1.1
-  2. item 1.2
+  1. item1.1
+  2. item1.2
 2. item2
 
 asdas
@@ -64,8 +64,8 @@ asdas
 - 问题2：打断的列表，如何续上
 
 1. item1
-  1. item 1.1
-  2. item 1.2
+  1. item1.1
+  2. item1.2
 2. item2
 
 	asdas
